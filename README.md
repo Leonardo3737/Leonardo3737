@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vinicius-silva-batista-7b3758262/)
 
 ### Um pouco sobre mim
-Sou graduando em sistemas de informação, atualmente estou no terceiro periodo, e nas horas vagas trabalho em meus projetos pessoais, que voce pode encontrar por aqui.
-Sou um amante da tecnologia e estou sempre estudando e aprimorando meus conhecimentos de desenvolvimento web, ja atuei como desenvolvedor para uma empresa de fora, Goat Tech,
-mas no momento estou a procura de novas oportunidades para adquirir mais experiencias e conhecimentos.
+Sou graduando em sistemas de informação, atualmente estou no terceiro período, e nas horas vagas trabalho em meus projetos pessoais, que você pode encontrar por aqui.
+Sou um amante da tecnologia e estou sempre estudando e aprimorando meus conhecimentos de desenvolvimento web, já atuei como desenvolvedor para uma empresa de fora, Goat Tech,
+mas no momento estou a procura de novas oportunidades para adquirir mais experiências  e conhecimentos.
 
 ### Tecnologias: 
 <div>
