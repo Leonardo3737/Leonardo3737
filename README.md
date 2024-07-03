@@ -46,8 +46,8 @@ Sou um amante da tecnologia e estou sempre estudando e aprimorando meus conhecim
 
 ## Contato:
 <div>
-  <a href="https://www.linkedin.com/in/leonardo-vinicius-silva-batista-7b3758262/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:leovinicius3737@gmail.com"><img alt="MongoDb" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leonardo-vinicius-silva-batista-7b3758262/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:leovinicius3737@gmail.com" target="_blank"><img alt="MongoDb" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 
