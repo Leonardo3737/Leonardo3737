@@ -1,7 +1,7 @@
 ## Olá, eu sou o Leonardo Vinicius 😄
 
 ### Um pouco sobre mim
-Sou graduando em sistemas de informação, atualmente estou no terceiro período, e nas horas vagas trabalho em meus projetos pessoais, que você pode encontrar por aqui.
+Sou graduando em sistemas de informação, atualmente estou no quinto período, e nas horas vagas trabalho em meus projetos pessoais, que você pode encontrar por aqui.
 Sou um amante da tecnologia e estou sempre estudando e aprimorando meus conhecimentos de desenvolvimento.
 
 ## Skills:
